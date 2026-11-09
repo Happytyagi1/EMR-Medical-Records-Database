@@ -1,0 +1,6 @@
+* text=auto
+*.docx binary
+*.pdf binary
+# Show the repo language as C# + SQL, not documents
+*.docx linguist-documentation
+*.pdf linguist-documentation
