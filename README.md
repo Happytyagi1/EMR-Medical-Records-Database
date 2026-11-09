@@ -118,11 +118,3 @@ Phase 5 - MedRecordsApp/
 ```bash
 mysql -u root -p < "Phase 4 - SQL DDL Statements.sql"
 ```
-
-## 👥 Team (Group 6)
-
-| Member | Role |
-|--------|------|
-| **Happy** | Use case & data modeling (Phase 1–2, ERD) |
-| **Nathanael Agnintedem Tsayem** | Normalization & documentation (Phase 3, project log) |
-| **Tri Phan** | Database implementation & programming (Phase 4 DDL, Phase 5 C# app) |
